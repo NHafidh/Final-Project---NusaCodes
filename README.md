@@ -24,11 +24,11 @@ Sebuah program kasir berbasis Command Line Interface (CLI) yang terintegrasi den
 1. Pastikan Python dan library pendukung sudah terinstall di komputer kamu. Jika belum, buka terminal dan jalankan perintah:
    ```bash
    pip install pandas matplotlib numpy
-2.Clone repository ini atau download foldernya.
+2. Clone repository ini atau download foldernya.
    ```bash 
    git clone https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git
-```
-3.Buka terminal, masuk ke folder project, dan jalankan file utama:
+   ```
+3. Buka terminal, masuk ke folder project, dan jalankan file utama:
    ```bash
    python Main.py
 
